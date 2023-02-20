@@ -12,13 +12,13 @@
 
 ## 预览
 #### 预览1
-![preview](https://github.com/KarlKaijie/SiYuanToDoList/blob/main/preview/preview.png)
+![preview](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/preview.png)
 #### 预览2
-![preview2](https://github.com/KarlKaijie/SiYuanToDoList/blob/main/preview/3.png)
+![preview2](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/3.png)
 #### 预览3
-![preview3](https://github.com/KarlKaijie/SiYuanToDoList/blob/main/preview/4.png)
+![preview3](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/4.png)
 #### 预览4
-![preview4](https://github.com/KarlKaijie/SiYuanToDoList/blob/main/preview/5.png)
+![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/5.png)
 
 ## 更新记录
 v0.0.1 初版
