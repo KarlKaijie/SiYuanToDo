@@ -1,9 +1,12 @@
 # ToDo List
 ## 动态更新的ToDo List
 
-> 如果觉得好用，还希望各位可以在github上多多关注～
+## 缘由
+
+> 本来用着Notion做笔记，转到思源后，发现没有动态更新的Task List了，市场里也只有一些静态更新的模板。思量着，那就自个做一个吧。 **位置: 集市 -> 挂件-> SiYuanToDo**
 
 ## 介绍
+* 支持和思源文档和块关联
 * 支持筛选
 * 每个文档都可以建一个todoList
 * 数据默认存放在文档的目录，跟随文档跨端跨设备同步
@@ -19,6 +22,18 @@
 ![preview3](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/4.png)
 #### 预览4
 ![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/5.png)
+#### 预览6
+![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/6.png)
+
+#### 预览7
+![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/7.png)
+
+#### 预览8
+![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/8.png)
 
 ## 更新记录
 v0.0.1 初版
+
+## 更新记录
+v0.0.4 
+1. 增加任务描述和思源文档以及块的关联.
