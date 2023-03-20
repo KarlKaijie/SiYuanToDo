@@ -19,7 +19,6 @@
 * 数据默认存放在思源工作空间 /data/assets/widget_tasklist_database
 * The data is stored by default in the SiYuan workspace. (/data/assets/widget_tasklist_database)
 
-
 ## 其它
 
 * 挂件初始化失败，请在引入挂件后，关闭当前文档，再打开
@@ -45,24 +44,30 @@
 
 ## 更新记录
 
+v0.1.4
 
-## 更新记录
+1. 功能：增加导入导出 Feature: Add import and export
 
 v0.1.3
+
 1. 国际化 Add English translate
 
 v0.1.0
+
 1. 增加表格视图
 2. 修复时间筛选
 
 v0.0.7
+
 1. fix: 修复挂件和资源文件未关联，避免用户误删
 
 v0.0.6
+
 1. 更改数据持久化存储位置, 以便可以通过思源资源模块进行管理 issue #2
 2. 预添加表格等方式展示任务面板，暂不可用
 
 v0.0.4
+
 1. 增加任务描述和思源文档以及块的关联.
 
 v0.0.1 初版
