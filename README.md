@@ -44,6 +44,10 @@
 
 ## 更新记录
 
+v0.1.5
+
+1. 功能：增加日历视图 Feature: Add Calendar View
+
 v0.1.4
 
 1. 功能：增加导入导出 Feature: Add import and export
