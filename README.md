@@ -43,6 +43,9 @@
 ![preview4](https://github.com/KarlKaijie/SiYuanToDo/blob/main/preview/5.png)
 
 ## 更新记录
+v0.1.8
+
+1. 看板视图增加拖拽功能 Feature: Board view supports drag and drop functionality
 
 v0.1.5
 
